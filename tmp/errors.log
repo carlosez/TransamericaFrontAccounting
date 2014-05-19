@@ -1,0 +1,9 @@
+[09-May-2014 16:34:56 Europe/Berlin] 0::archive.inc:411: touch(): Utime failed: Operation not permitted
+[09-May-2014 16:41:14 Europe/Berlin] 0::session.inc:372: include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[09-May-2014 16:41:14 Europe/Berlin] 0::session.inc:372: include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php')
+[09-May-2014 16:47:23 Europe/Berlin] 0::session.inc:372: include_once(./tmp/faillog.php): failed to open stream: No such file or directory
+[09-May-2014 16:47:23 Europe/Berlin] 0::session.inc:372: include_once(): Failed opening './tmp/faillog.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php')
+[09-May-2014 17:31:55 Europe/Berlin] 0:admin:tcpdf.php:2609: include(/var/www/transamerica/frontaccountingSV/reporting/includes/../fonts/dejavu.php): failed to open stream: No existe el fichero o el directorio
+[09-May-2014 17:31:55 Europe/Berlin] 0:admin:tcpdf.php:2609: include(): Failed opening '/var/www/transamerica/frontaccountingSV/reporting/includes/../fonts/dejavu.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php')
+[09-May-2014 20:00:10 Europe/Berlin] 0:admin:tcpdf.php:2609: include(/var/www/transamerica/frontaccountingSV/reporting/includes/../fonts/dejavu.php): failed to open stream: No existe el fichero o el directorio
+[09-May-2014 20:00:10 Europe/Berlin] 0:admin:tcpdf.php:2609: include(): Failed opening '/var/www/transamerica/frontaccountingSV/reporting/includes/../fonts/dejavu.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php')
