@@ -190,7 +190,7 @@
 				echo "<td align='center' class='footer'><a target='_blank' href=''-1'><font color='#ffffff'>jADEv - " . _("Theme:") . " " . user_theme() . " - ".show_users_online()."</font></a></td>\n";
         echo "</tr>\n";
         echo "<tr>\n";
-        echo "<td align='center' class='footer'><a target='_blank' href=''-1'><img src='$path_to_root/themes/default/images/jadev.jpg' style='vertical-align:middle;' border='0'></a></td>\n";
+        echo "<td align='center' class='footer'><a target='_blank' href=''-1'><img src='$path_to_root/themes/dashboard/images/jadev.jpg' style='vertical-align:middle;' border='0'></a></td>\n";
 				echo "</tr>\n";
 				if ($allow_demo_mode==true)
 				{
