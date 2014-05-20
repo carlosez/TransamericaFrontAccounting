@@ -59,14 +59,14 @@ if (!isset($path_to_root) || isset($_GET['path_to_root']) || isset($_POST['path_
 		ini_set("log_errors", "On");
 	}		
 	// Main Title
-	$app_title = "FrontAccounting";
+	$app_title = "jADEv";
 
 	// Build for development purposes
 	$build_version 	= date("d.m.Y", filemtime("$path_to_root/CHANGELOG.txt"));
 
 	// Powered by
-	$power_by 		= "FrontAccounting";
-	$power_url 		= "http://frontaccounting.com";
+	$power_by 		= "<img src='$path_to_root/themes/default/images/jadev.jpg' style='vertical-align:middle;' border='0'>";
+	$power_url 		= "";
 
 	/* No check on edit conflicts. Maybe needed to be set to 1 in certains Windows Servers */
 	$no_check_edit_conflicts = 0;
